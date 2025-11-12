@@ -23,7 +23,8 @@ st.caption("This is a caption text.")
 # Code block
 st.code("print('Hello, Streamlit!')", language='python')
 st.code("""def hello():
-    return "Hello, Streamlit!\"""", language='python')
+    return "Hello, Streamlit!"
+""", language='python')
 
 # Preformatted text
 st.text("Preformatted text\n")
