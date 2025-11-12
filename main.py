@@ -37,7 +37,7 @@ st.text("Some text above the divider.")
 st.divider()
 st.text("Some text below the divider.")
 
-#st.write
+# st.write
 st.write("This is a simple text using st.write.")
 st.write("# This is a header using st.write")
 data = pd.DataFrame({
